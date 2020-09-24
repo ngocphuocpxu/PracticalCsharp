@@ -1,0 +1,13 @@
+C:\ngocphuoc\v1study ex\bin\Debug\netcoreapp3.1\v1study ex.exe
+C:\ngocphuoc\v1study ex\bin\Debug\netcoreapp3.1\v1study ex.deps.json
+C:\ngocphuoc\v1study ex\bin\Debug\netcoreapp3.1\v1study ex.runtimeconfig.json
+C:\ngocphuoc\v1study ex\bin\Debug\netcoreapp3.1\v1study ex.runtimeconfig.dev.json
+C:\ngocphuoc\v1study ex\bin\Debug\netcoreapp3.1\v1study ex.dll
+C:\ngocphuoc\v1study ex\bin\Debug\netcoreapp3.1\v1study ex.pdb
+C:\ngocphuoc\v1study ex\obj\Debug\netcoreapp3.1\v1study ex.csprojAssemblyReference.cache
+C:\ngocphuoc\v1study ex\obj\Debug\netcoreapp3.1\v1study ex.AssemblyInfoInputs.cache
+C:\ngocphuoc\v1study ex\obj\Debug\netcoreapp3.1\v1study ex.AssemblyInfo.cs
+C:\ngocphuoc\v1study ex\obj\Debug\netcoreapp3.1\v1study ex.csproj.CoreCompileInputs.cache
+C:\ngocphuoc\v1study ex\obj\Debug\netcoreapp3.1\v1study ex.dll
+C:\ngocphuoc\v1study ex\obj\Debug\netcoreapp3.1\v1study ex.pdb
+C:\ngocphuoc\v1study ex\obj\Debug\netcoreapp3.1\v1study ex.genruntimeconfig.cache

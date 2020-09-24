@@ -1,0 +1,13 @@
+C:\ngocphuoc\Practical 3 ex2 NEWS MANAGEMENT SYSTEM\bin\Debug\netcoreapp3.1\Practical 3 ex2 NEWS MANAGEMENT SYSTEM.exe
+C:\ngocphuoc\Practical 3 ex2 NEWS MANAGEMENT SYSTEM\bin\Debug\netcoreapp3.1\Practical 3 ex2 NEWS MANAGEMENT SYSTEM.deps.json
+C:\ngocphuoc\Practical 3 ex2 NEWS MANAGEMENT SYSTEM\bin\Debug\netcoreapp3.1\Practical 3 ex2 NEWS MANAGEMENT SYSTEM.runtimeconfig.json
+C:\ngocphuoc\Practical 3 ex2 NEWS MANAGEMENT SYSTEM\bin\Debug\netcoreapp3.1\Practical 3 ex2 NEWS MANAGEMENT SYSTEM.runtimeconfig.dev.json
+C:\ngocphuoc\Practical 3 ex2 NEWS MANAGEMENT SYSTEM\bin\Debug\netcoreapp3.1\Practical 3 ex2 NEWS MANAGEMENT SYSTEM.dll
+C:\ngocphuoc\Practical 3 ex2 NEWS MANAGEMENT SYSTEM\bin\Debug\netcoreapp3.1\Practical 3 ex2 NEWS MANAGEMENT SYSTEM.pdb
+C:\ngocphuoc\Practical 3 ex2 NEWS MANAGEMENT SYSTEM\obj\Debug\netcoreapp3.1\Practical 3 ex2 NEWS MANAGEMENT SYSTEM.csprojAssemblyReference.cache
+C:\ngocphuoc\Practical 3 ex2 NEWS MANAGEMENT SYSTEM\obj\Debug\netcoreapp3.1\Practical 3 ex2 NEWS MANAGEMENT SYSTEM.AssemblyInfoInputs.cache
+C:\ngocphuoc\Practical 3 ex2 NEWS MANAGEMENT SYSTEM\obj\Debug\netcoreapp3.1\Practical 3 ex2 NEWS MANAGEMENT SYSTEM.AssemblyInfo.cs
+C:\ngocphuoc\Practical 3 ex2 NEWS MANAGEMENT SYSTEM\obj\Debug\netcoreapp3.1\Practical 3 ex2 NEWS MANAGEMENT SYSTEM.csproj.CoreCompileInputs.cache
+C:\ngocphuoc\Practical 3 ex2 NEWS MANAGEMENT SYSTEM\obj\Debug\netcoreapp3.1\Practical 3 ex2 NEWS MANAGEMENT SYSTEM.dll
+C:\ngocphuoc\Practical 3 ex2 NEWS MANAGEMENT SYSTEM\obj\Debug\netcoreapp3.1\Practical 3 ex2 NEWS MANAGEMENT SYSTEM.pdb
+C:\ngocphuoc\Practical 3 ex2 NEWS MANAGEMENT SYSTEM\obj\Debug\netcoreapp3.1\Practical 3 ex2 NEWS MANAGEMENT SYSTEM.genruntimeconfig.cache

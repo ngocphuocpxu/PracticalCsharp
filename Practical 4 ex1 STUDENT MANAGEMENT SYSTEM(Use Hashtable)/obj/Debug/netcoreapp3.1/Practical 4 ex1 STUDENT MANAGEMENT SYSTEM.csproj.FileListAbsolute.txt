@@ -1,0 +1,13 @@
+C:\ngocphuoc\Practical 4 ex1 STUDENT MANAGEMENT SYSTEM\bin\Debug\netcoreapp3.1\Practical 4 ex1 STUDENT MANAGEMENT SYSTEM.exe
+C:\ngocphuoc\Practical 4 ex1 STUDENT MANAGEMENT SYSTEM\bin\Debug\netcoreapp3.1\Practical 4 ex1 STUDENT MANAGEMENT SYSTEM.deps.json
+C:\ngocphuoc\Practical 4 ex1 STUDENT MANAGEMENT SYSTEM\bin\Debug\netcoreapp3.1\Practical 4 ex1 STUDENT MANAGEMENT SYSTEM.runtimeconfig.json
+C:\ngocphuoc\Practical 4 ex1 STUDENT MANAGEMENT SYSTEM\bin\Debug\netcoreapp3.1\Practical 4 ex1 STUDENT MANAGEMENT SYSTEM.runtimeconfig.dev.json
+C:\ngocphuoc\Practical 4 ex1 STUDENT MANAGEMENT SYSTEM\bin\Debug\netcoreapp3.1\Practical 4 ex1 STUDENT MANAGEMENT SYSTEM.dll
+C:\ngocphuoc\Practical 4 ex1 STUDENT MANAGEMENT SYSTEM\bin\Debug\netcoreapp3.1\Practical 4 ex1 STUDENT MANAGEMENT SYSTEM.pdb
+C:\ngocphuoc\Practical 4 ex1 STUDENT MANAGEMENT SYSTEM\obj\Debug\netcoreapp3.1\Practical 4 ex1 STUDENT MANAGEMENT SYSTEM.csprojAssemblyReference.cache
+C:\ngocphuoc\Practical 4 ex1 STUDENT MANAGEMENT SYSTEM\obj\Debug\netcoreapp3.1\Practical 4 ex1 STUDENT MANAGEMENT SYSTEM.AssemblyInfoInputs.cache
+C:\ngocphuoc\Practical 4 ex1 STUDENT MANAGEMENT SYSTEM\obj\Debug\netcoreapp3.1\Practical 4 ex1 STUDENT MANAGEMENT SYSTEM.AssemblyInfo.cs
+C:\ngocphuoc\Practical 4 ex1 STUDENT MANAGEMENT SYSTEM\obj\Debug\netcoreapp3.1\Practical 4 ex1 STUDENT MANAGEMENT SYSTEM.csproj.CoreCompileInputs.cache
+C:\ngocphuoc\Practical 4 ex1 STUDENT MANAGEMENT SYSTEM\obj\Debug\netcoreapp3.1\Practical 4 ex1 STUDENT MANAGEMENT SYSTEM.dll
+C:\ngocphuoc\Practical 4 ex1 STUDENT MANAGEMENT SYSTEM\obj\Debug\netcoreapp3.1\Practical 4 ex1 STUDENT MANAGEMENT SYSTEM.pdb
+C:\ngocphuoc\Practical 4 ex1 STUDENT MANAGEMENT SYSTEM\obj\Debug\netcoreapp3.1\Practical 4 ex1 STUDENT MANAGEMENT SYSTEM.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+C:\ngocphuoc\Practical 5 ex2 BOOKS\bin\Debug\netcoreapp3.1\Practical 5 ex2 BOOKS.exe
+C:\ngocphuoc\Practical 5 ex2 BOOKS\bin\Debug\netcoreapp3.1\Practical 5 ex2 BOOKS.deps.json
+C:\ngocphuoc\Practical 5 ex2 BOOKS\bin\Debug\netcoreapp3.1\Practical 5 ex2 BOOKS.runtimeconfig.json
+C:\ngocphuoc\Practical 5 ex2 BOOKS\bin\Debug\netcoreapp3.1\Practical 5 ex2 BOOKS.runtimeconfig.dev.json
+C:\ngocphuoc\Practical 5 ex2 BOOKS\bin\Debug\netcoreapp3.1\Practical 5 ex2 BOOKS.dll
+C:\ngocphuoc\Practical 5 ex2 BOOKS\bin\Debug\netcoreapp3.1\Practical 5 ex2 BOOKS.pdb
+C:\ngocphuoc\Practical 5 ex2 BOOKS\obj\Debug\netcoreapp3.1\Practical 5 ex2 BOOKS.csprojAssemblyReference.cache
+C:\ngocphuoc\Practical 5 ex2 BOOKS\obj\Debug\netcoreapp3.1\Practical 5 ex2 BOOKS.AssemblyInfoInputs.cache
+C:\ngocphuoc\Practical 5 ex2 BOOKS\obj\Debug\netcoreapp3.1\Practical 5 ex2 BOOKS.AssemblyInfo.cs
+C:\ngocphuoc\Practical 5 ex2 BOOKS\obj\Debug\netcoreapp3.1\Practical 5 ex2 BOOKS.csproj.CoreCompileInputs.cache
+C:\ngocphuoc\Practical 5 ex2 BOOKS\obj\Debug\netcoreapp3.1\Practical 5 ex2 BOOKS.dll
+C:\ngocphuoc\Practical 5 ex2 BOOKS\obj\Debug\netcoreapp3.1\Practical 5 ex2 BOOKS.pdb
+C:\ngocphuoc\Practical 5 ex2 BOOKS\obj\Debug\netcoreapp3.1\Practical 5 ex2 BOOKS.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+C:\ngocphuoc\Practical 4 ex2 MARKS MANAGEMENT SYSTEM\bin\Debug\netcoreapp3.1\Practical 4 ex2 MARKS MANAGEMENT SYSTEM.exe
+C:\ngocphuoc\Practical 4 ex2 MARKS MANAGEMENT SYSTEM\bin\Debug\netcoreapp3.1\Practical 4 ex2 MARKS MANAGEMENT SYSTEM.deps.json
+C:\ngocphuoc\Practical 4 ex2 MARKS MANAGEMENT SYSTEM\bin\Debug\netcoreapp3.1\Practical 4 ex2 MARKS MANAGEMENT SYSTEM.runtimeconfig.json
+C:\ngocphuoc\Practical 4 ex2 MARKS MANAGEMENT SYSTEM\bin\Debug\netcoreapp3.1\Practical 4 ex2 MARKS MANAGEMENT SYSTEM.runtimeconfig.dev.json
+C:\ngocphuoc\Practical 4 ex2 MARKS MANAGEMENT SYSTEM\bin\Debug\netcoreapp3.1\Practical 4 ex2 MARKS MANAGEMENT SYSTEM.dll
+C:\ngocphuoc\Practical 4 ex2 MARKS MANAGEMENT SYSTEM\bin\Debug\netcoreapp3.1\Practical 4 ex2 MARKS MANAGEMENT SYSTEM.pdb
+C:\ngocphuoc\Practical 4 ex2 MARKS MANAGEMENT SYSTEM\obj\Debug\netcoreapp3.1\Practical 4 ex2 MARKS MANAGEMENT SYSTEM.csprojAssemblyReference.cache
+C:\ngocphuoc\Practical 4 ex2 MARKS MANAGEMENT SYSTEM\obj\Debug\netcoreapp3.1\Practical 4 ex2 MARKS MANAGEMENT SYSTEM.AssemblyInfoInputs.cache
+C:\ngocphuoc\Practical 4 ex2 MARKS MANAGEMENT SYSTEM\obj\Debug\netcoreapp3.1\Practical 4 ex2 MARKS MANAGEMENT SYSTEM.AssemblyInfo.cs
+C:\ngocphuoc\Practical 4 ex2 MARKS MANAGEMENT SYSTEM\obj\Debug\netcoreapp3.1\Practical 4 ex2 MARKS MANAGEMENT SYSTEM.csproj.CoreCompileInputs.cache
+C:\ngocphuoc\Practical 4 ex2 MARKS MANAGEMENT SYSTEM\obj\Debug\netcoreapp3.1\Practical 4 ex2 MARKS MANAGEMENT SYSTEM.dll
+C:\ngocphuoc\Practical 4 ex2 MARKS MANAGEMENT SYSTEM\obj\Debug\netcoreapp3.1\Practical 4 ex2 MARKS MANAGEMENT SYSTEM.pdb
+C:\ngocphuoc\Practical 4 ex2 MARKS MANAGEMENT SYSTEM\obj\Debug\netcoreapp3.1\Practical 4 ex2 MARKS MANAGEMENT SYSTEM.genruntimeconfig.cache
